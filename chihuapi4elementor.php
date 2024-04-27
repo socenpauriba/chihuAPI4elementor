@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ChihuAPI for Elementor
-Plugin URI: https://github.com/
+Plugin URI: https://github.com/socenpauriba/chihuAPI4elementor
 Description: Replaces Elementor placeholder image with a random dog image from dog.ceo API
 Version: 1.0
 Author: Pau Riba Queijas
